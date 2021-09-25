@@ -16,3 +16,5 @@ def xor(a, b):
 x = list(map(int, x.split()))
 y = list(map(int, y.split()))
 print(xor(x, y))
+
+# Ab kya hi btaye
